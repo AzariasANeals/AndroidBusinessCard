@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android-Business-Card</string>
+    <string name="card_name">Azarias A\'Neals</string>
+    <string name="profession">Student at North Seattle</string>
+    <string name="phonenumber">206-353-1640</string>
+    <string name="email">AzariasA@protonmail.com</string>
+    <string name="address">23401 48th Ave W, Mountlake Terrace, WA 98043</string>
+</resources>
